@@ -112,7 +112,9 @@ p {
     text-align: center;
 }
 
-.img-responsive {
+/*Clase ocupada por la plataforma podria probar este tipo de clase para que no pise y deforme las imagenes*/
+
+.img-responsive-100 {
     margin-left: auto;
     margin-right: auto;
     width: 100vw;
